@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="dec6d47c-c717-418a-9c15-3d650727b6af">
+  <producedTypes>
+    <objectType typeId="8fdb651e-1533-4135-a41c-3664c104ff9c" valueTypeId="e73054f9-2219-4e02-bca4-2109acec4900"/>
+    <refType typeId="5065e716-8c7a-47c0-95d8-457b08287e43" valueTypeId="16c54ed8-0c9e-453f-b5f7-7235532d929a"/>
+    <selectionType typeId="e43ff1e7-d115-4cbb-9520-d1a2ea4b84c1" valueTypeId="9e057d92-dc96-4c4e-a9e6-fcdd51a6ea8e"/>
+    <listType typeId="64202340-38a3-4840-b2cd-30a0f5704d74" valueTypeId="a274f5f0-2a16-4045-ba6a-5d996a7a2853"/>
+    <managerType typeId="9e6c0c0f-fea4-4506-a400-d7a0c6736153" valueTypeId="8d09e3f2-97fa-4359-9376-f1c53d7386bf"/>
+  </producedTypes>
+  <name>СправочникВасилия</name>
+  <synonym>
+    <key>ru</key>
+    <value>Справочник василия</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.СправочникВасилия.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.СправочникВасилия.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

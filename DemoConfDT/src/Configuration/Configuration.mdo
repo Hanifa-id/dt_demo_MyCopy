@@ -365,6 +365,7 @@
   <catalogs>Catalog.ХранилищеВариантовОтчетов</catalogs>
   <catalogs>Catalog.Встречи</catalogs>
   <catalogs>Catalog.СправочникАндрея</catalogs>
+  <catalogs>Catalog.СправочникВасилия</catalogs>
   <documents>Document.Заказ</documents>
   <documents>Document.ОперацияПоУчетуТоваров</documents>
   <documents>Document.Оплата</documents>
